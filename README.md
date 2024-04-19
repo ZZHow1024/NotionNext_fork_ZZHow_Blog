@@ -1,3 +1,14 @@
+# Welcome to my blog!
+
+https://blog.zzhow.top/
+
+Powered by NotionNext 4.0.18.
+
+
+
+
+# 以下是**NotionNext官方文档：**
+
 # NotionNext
 
 <p>
