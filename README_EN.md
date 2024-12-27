@@ -1,14 +1,13 @@
-# Free Installation and Usage Guide
+# Welcome to my blog!
 
-Click here to access the help documentation: NotionNext Help Manual - (Completely Free)
+https://blog.zzhow.com/
 
-## Rights Statement
+Powered by NotionNext 4.7.12.
 
-This project's tutorial is a free and open resource intended solely for personal learning use. It is strictly prohibited for any individual or organization to use this tutorial for commercial purposes, including but not limited to direct sales, indirect charges, or any other forms of profit. When reproducing, copying, or sharing this tutorial, the author's information must be retained, and the source clearly cited.
 
-This project only offers paid consultation services authorized by the author's team. Please be vigilant against fraud. Any unauthorized paid services may be subject to legal risks.
 
-You can set up your personal website in just a few minutes. Here is the link to my free tutorial:
+
+# The following is the official **NotionNext document:**
 
 # NotionNext
 
