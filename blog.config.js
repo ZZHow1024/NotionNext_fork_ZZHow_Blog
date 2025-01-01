@@ -26,7 +26,7 @@ const BLOG = {
 
   AUTHOR: process.env.NEXT_PUBLIC_AUTHOR || 'ZZHow', // 您的昵称 例如 tangly1024
   BIO: process.env.NEXT_PUBLIC_BIO || 'Change the world by program!', // 作者简介
-  LINK: process.env.NEXT_PUBLIC_LINK || 'https://zzhow.blog', // 网站地址
+  LINK: process.env.NEXT_PUBLIC_LINK || 'https://blog.zzhow.com', // 网站地址
   KEYWORDS: process.env.NEXT_PUBLIC_KEYWORD || 'ZZHow, Blog, 博客, ZZHow', // 网站关键词 英文逗号隔开
 
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
